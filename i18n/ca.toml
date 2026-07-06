@@ -1,7 +1,7 @@
 # Generated from translations.json. Strings for the Koi site, locale: ca.
 
 ["meta.home.title"]
-other = "Koi. Els teus cotxes, en calma."
+other = "Koi. Els teus cotxes, amb calma."
 
 ["meta.home.desc"]
 other = "Una llar tranquil·la per a cada cotxe de la teva vida: en propietat, de rènting, amb subscripció o deixat. L'obres, veus que tot va bé i continues amb el teu dia. Privat per defecte, a l'iPhone."
@@ -19,7 +19,7 @@ other = "Contacte"
 other = "Privadesa"
 
 ["hero.title"]
-other = "Els teus cotxes, en calma."
+other = "Els teus cotxes, amb calma."
 
 ["hero.sub"]
 other = "Una llar tranquil·la per a cada cotxe de la teva vida: en propietat, de rènting, amb subscripció o deixat. L'obres, veus que tot va bé i continues amb el teu dia."
@@ -61,10 +61,10 @@ other = "Desat al teu dispositiu, no als nostres servidors"
 other = "Sense rastrejadors, sense anuncis, sense analítiques"
 
 ["checks.4"]
-other = "La ubicació es queda al dispositiu per als preus de combustible"
+other = "Exporta les teves dades quan vulguis"
 
 ["footer.tag"]
-other = "els teus cotxes, en calma"
+other = "els teus cotxes, amb calma"
 
 ["meta.priv.title"]
 other = "Política de privadesa de Koi"
@@ -100,7 +100,7 @@ other = "Les teves dades es desen només al teu dispositiu"
 other = "Sense publicitat, sense rastrejadors, sense analítiques de tercers"
 
 ["pp.sum.4"]
-other = "La ubicació, si la permets, s'usa al dispositiu i nosaltres mai la desem"
+other = "Exporta o esborra-ho tot quan vulguis"
 
 ["pp.s1.h"]
 other = "Què guarda Koi"
@@ -114,17 +114,11 @@ other = "Què recollim sobre tu"
 ["pp.s2.p"]
 other = "Res de personal. No et demanem el nom ni el correu, no t'assignem cap identificador i no construïm cap perfil teu. No podem veure els teus cotxes, els teus costos ni com fas servir l'app."
 
-["pp.s3.h"]
-other = "Ubicació i preus de combustible"
-
-["pp.s3.p"]
-other = "Si tries veure els preus de combustible propers, Koi demana a l'iOS la teva ubicació aproximada i la fa servir per consultar preus en un servei públic de preus de combustible. La teva ubicació s'usa al teu dispositiu per a aquesta consulta i nosaltres no la desem ni la lliguem a la teva identitat. Pots desactivar-ho quan vulguis a la Configuració de l'iOS, i la resta de l'app continua funcionant sense això."
-
 ["pp.s4.h"]
 other = "Tercers"
 
 ["pp.s4.p1"]
-other = "Koi no inclou SDK de publicitat, rastrejadors de xarxes socials ni eines d'analítica. L'únic servei extern amb què contacta és la consulta pública de preus de combustible descrita més amunt, i només quan demanes preus. Si descarregues l'app des de l'App Store, s'apliquen les "
+other = "Koi no inclou SDK de publicitat, rastrejadors de xarxes socials ni eines d'analítica, i no contacta amb cap servei extern. Si descarregues l'app des de l'App Store, s'apliquen les "
 
 ["pp.s4.appstore"]
 other = "pràctiques de privadesa estàndard de l'App Store"

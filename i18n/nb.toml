@@ -61,7 +61,7 @@ other = "Lagret på enheten din, ikke på våre servere"
 other = "Ingen sporere, ingen annonser, ingen analyse"
 
 ["checks.4"]
-other = "Posisjonen blir på enheten for drivstoffpriser"
+other = "Eksporter dataene dine når som helst"
 
 ["footer.tag"]
 other = "bilene dine, i ro"
@@ -100,7 +100,7 @@ other = "Dataene dine lagres bare på enheten din"
 other = "Ingen annonsering, ingen sporere, ingen tredjepartsanalyse"
 
 ["pp.sum.4"]
-other = "Posisjon, hvis du tillater det, brukes på enheten og lagres aldri av oss"
+other = "Eksporter eller slett alt, når som helst"
 
 ["pp.s1.h"]
 other = "Hva Koi lagrer"
@@ -114,17 +114,11 @@ other = "Hva vi samler inn om deg"
 ["pp.s2.p"]
 other = "Ingenting personlig. Vi spør ikke om navnet eller e-posten din, vi gir deg ingen ID, og vi bygger ingen profil av deg. Vi kan ikke se bilene dine, kostnadene dine eller hvordan du bruker appen."
 
-["pp.s3.h"]
-other = "Posisjon og drivstoffpriser"
-
-["pp.s3.p"]
-other = "Hvis du velger å se drivstoffpriser i nærheten, ber Koi iOS om den omtrentlige posisjonen din og bruker den til å slå opp priser fra en offentlig drivstoffpristjeneste. Posisjonen din brukes på enheten din til den forespørselen og lagres ikke av oss eller knyttes til identiteten din. Du kan skru dette av når som helst i iOS-innstillingene, og resten av appen fungerer videre uten det."
-
 ["pp.s4.h"]
 other = "Tredjeparter"
 
 ["pp.s4.p1"]
-other = "Koi inneholder ingen annonse-SDK-er, sosiale medier-sporere eller analyseverktøy. Den eneste eksterne tjenesten den kontakter er det offentlige drivstoffprisoppslaget beskrevet ovenfor, og bare når du ber om priser. Hvis du laster ned appen fra App Store, gjelder Apples standard "
+other = "Koi inneholder ingen annonse-SDK-er, sosiale medier-sporere eller analyseverktøy, og kontakter ingen eksterne tjenester. Hvis du laster ned appen fra App Store, gjelder Apples standard "
 
 ["pp.s4.appstore"]
 other = "personvernpraksis for App Store"

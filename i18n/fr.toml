@@ -61,7 +61,7 @@ other = "Stocké sur votre appareil, pas sur nos serveurs"
 other = "Aucun traceur, aucune publicité, aucune analyse"
 
 ["checks.4"]
-other = "La localisation reste sur l'appareil pour les prix du carburant"
+other = "Exportez vos données quand vous voulez"
 
 ["footer.tag"]
 other = "vos voitures, sereinement"
@@ -100,7 +100,7 @@ other = "Vos données sont stockées uniquement sur votre appareil"
 other = "Aucune publicité, aucun traceur, aucune analyse tierce"
 
 ["pp.sum.4"]
-other = "La localisation, si vous l'autorisez, est utilisée sur l'appareil et n'est jamais conservée par nous"
+other = "Exportez ou supprimez tout, quand vous le voulez"
 
 ["pp.s1.h"]
 other = "Ce que Koi stocke"
@@ -114,17 +114,11 @@ other = "Ce que nous recueillons sur vous"
 ["pp.s2.p"]
 other = "Rien de personnel. Nous ne demandons ni votre nom ni votre e-mail, nous ne vous attribuons aucun identifiant, et nous ne construisons aucun profil de vous. Nous ne pouvons voir ni vos voitures, ni vos coûts, ni la façon dont vous utilisez l'application."
 
-["pp.s3.h"]
-other = "Localisation et prix du carburant"
-
-["pp.s3.p"]
-other = "Si vous choisissez de voir les prix du carburant à proximité, Koi demande à iOS votre localisation approximative et l'utilise pour consulter les prix auprès d'un service public de prix du carburant. Votre localisation est utilisée sur votre appareil pour cette requête et n'est ni enregistrée par nous ni rattachée à votre identité. Vous pouvez désactiver cela à tout moment dans les Réglages iOS, et le reste de l'application continue de fonctionner sans cela."
-
 ["pp.s4.h"]
 other = "Tiers"
 
 ["pp.s4.p1"]
-other = "Koi n'inclut aucun SDK publicitaire, aucun traceur de réseaux sociaux, ni outil d'analyse. Le seul service extérieur qu'il contacte est la consultation publique des prix du carburant décrite ci-dessus, et seulement lorsque vous demandez les prix. Si vous téléchargez l'application depuis l'App Store, les "
+other = "Koi n'inclut aucun SDK publicitaire, aucun traceur de réseaux sociaux, ni outil d'analyse, et ne contacte aucun service extérieur. Si vous téléchargez l'application depuis l'App Store, les "
 
 ["pp.s4.appstore"]
 other = "pratiques de confidentialité standard de l'App Store"

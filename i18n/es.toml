@@ -61,7 +61,7 @@ other = "Guardado en tu dispositivo, no en nuestros servidores"
 other = "Sin rastreadores, sin anuncios, sin analíticas"
 
 ["checks.4"]
-other = "La ubicación se queda en el dispositivo para los precios de carburante"
+other = "Exporta tus datos cuando quieras"
 
 ["footer.tag"]
 other = "tus coches, con calma"
@@ -100,7 +100,7 @@ other = "Tus datos se guardan solo en tu dispositivo"
 other = "Sin publicidad, sin rastreadores, sin analíticas de terceros"
 
 ["pp.sum.4"]
-other = "La ubicación, si la permites, se usa en el dispositivo y nosotros nunca la guardamos"
+other = "Exporta o borra todo cuando quieras"
 
 ["pp.s1.h"]
 other = "Qué guarda Koi"
@@ -114,17 +114,11 @@ other = "Qué recogemos sobre ti"
 ["pp.s2.p"]
 other = "Nada personal. No te pedimos tu nombre ni tu correo, no te asignamos un identificador y no creamos un perfil tuyo. No podemos ver tus coches, tus costes ni cómo usas la app."
 
-["pp.s3.h"]
-other = "Ubicación y precios de carburante"
-
-["pp.s3.p"]
-other = "Si decides ver los precios de carburante cercanos, Koi le pide a iOS tu ubicación aproximada y la usa para consultar los precios de un servicio público de precios de carburante. Tu ubicación se usa en tu dispositivo para esa consulta y nosotros no la guardamos ni la asociamos a tu identidad. Puedes desactivarlo cuando quieras en los Ajustes de iOS, y el resto de la app sigue funcionando sin ello."
-
 ["pp.s4.h"]
 other = "Terceros"
 
 ["pp.s4.p1"]
-other = "Koi no incluye SDK de publicidad, rastreadores de redes sociales ni herramientas de analítica. El único servicio externo con el que contacta es la consulta pública de precios de carburante descrita arriba, y solo cuando pides los precios. Si descargas la app desde la App Store, se aplican las "
+other = "Koi no incluye SDK de publicidad, rastreadores de redes sociales ni herramientas de analítica, y no contacta con ningún servicio externo. Si descargas la app desde la App Store, se aplican las "
 
 ["pp.s4.appstore"]
 other = "prácticas de privacidad estándar de la App Store"

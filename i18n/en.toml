@@ -61,7 +61,7 @@ other = "Stored on your device, not our servers"
 other = "No trackers, no ads, no analytics"
 
 ["checks.4"]
-other = "Location stays on-device for fuel prices"
+other = "Export your data any time"
 
 ["footer.tag"]
 other = "your cars, calmly"
@@ -100,7 +100,7 @@ other = "Your data is stored only on your device"
 other = "No advertising, no trackers, no third-party analytics"
 
 ["pp.sum.4"]
-other = "Location, if you allow it, is used on-device and never stored by us"
+other = "Export or delete everything, any time"
 
 ["pp.s1.h"]
 other = "What Koi stores"
@@ -114,17 +114,11 @@ other = "What we collect about you"
 ["pp.s2.p"]
 other = "Nothing personal. We don't ask for your name or email, we don't assign you an ID, and we don't build a profile of you. We can't see your cars, your costs, or how you use the app."
 
-["pp.s3.h"]
-other = "Location and fuel prices"
-
-["pp.s3.p"]
-other = "If you choose to see nearby fuel prices, Koi asks iOS for your approximate location and uses it to look up prices from a public fuel-price service. Your location is used on your device for that request and is not saved by us or attached to your identity. You can turn this off at any time in iOS Settings, and the rest of the app keeps working without it."
-
 ["pp.s4.h"]
 other = "Third parties"
 
 ["pp.s4.p1"]
-other = "Koi doesn't include advertising SDKs, social-media trackers, or analytics tools. The only outside service it contacts is the public fuel-price lookup described above, and only when you ask for prices. If you download the app from the App Store, Apple's standard "
+other = "Koi doesn't include advertising SDKs, social-media trackers, or analytics tools, and it contacts no outside services. If you download the app from the App Store, Apple's standard "
 
 ["pp.s4.appstore"]
 other = "App Store privacy practices"

@@ -22,7 +22,7 @@
   </div>
 
   <div class="sections">
-    {{ range $i := (seq 1 3) }}<div><h2>{{ i18n (printf "pp.s%d.h" $i) }}</h2><p>{{ i18n (printf "pp.s%d.p" $i) }}</p></div>{{ end }}
+    {{ range $i := (seq 1 2) }}<div><h2>{{ i18n (printf "pp.s%d.h" $i) }}</h2><p>{{ i18n (printf "pp.s%d.p" $i) }}</p></div>{{ end }}
     <div><h2>{{ i18n "pp.s4.h" }}</h2><p>{{ i18n "pp.s4.p1" }}<span class="ink">{{ i18n "pp.s4.appstore" }}</span>{{ i18n "pp.s4.p2" }}</p></div>
     {{ range $i := (seq 5 8) }}<div><h2>{{ i18n (printf "pp.s%d.h" $i) }}</h2><p>{{ i18n (printf "pp.s%d.p" $i) }}</p></div>{{ end }}
     <div id="contact"><h2>{{ i18n "pp.s9.h" }}</h2><p>{{ i18n "pp.contact.p1" }}<a class="plink eml" href="mailto:koi@example.invalid" data-e="{{ $eml }}" data-show>hello [at] gariasf [dot] com</a>{{ i18n "pp.contact.p2" }}</p></div>
